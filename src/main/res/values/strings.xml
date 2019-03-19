@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="game_summary">Game Summary</string>
+    <string name="team_a">Philly</string>
+    <string name="team_b">Warriors</string>
+    <string name="initial_score">0</string>
+</resources>
